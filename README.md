@@ -12,6 +12,8 @@ You will be able to see the stars closer than ever and even visit other planets.
 
 (Bringing back souvenirs from said other planets will result in a fee.)
 
-Please have this permsission slip signed right away: [Permission Slip](https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/F/form4a_rsg.pdf)
+Please fill out this [permission slip](https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/F/form4a_rsg.pdf).
+
+For more information about space, visit [NASA](https://www.nasa.gov/).
 
 ![Space Shuttle](https://cdn.pixabay.com/photo/2010/12/05/space-shuttle-992_960_720.jpg)
